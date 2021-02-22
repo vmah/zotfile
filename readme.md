@@ -26,7 +26,7 @@ Simply run `make` instead of steps 3 and 4 above.
 
 ## Extraction of PDF Annotations
 
-Zotfile can extracted annotations and highlighted text from many PDF files. But it will never be able to handle all files. If you can not copy & paste meaningful text from the file in your pdf viewer (open your pdf viewer (not the browser plugin), select text, copy and paste it somewhere), zotfile won't be able to extract the highlighted text either. If you can, there is a chance that future versions of zotfile will solve the problem. In general, these files depend on the pdf standards supported by pdf.js, which is the pdf library used by zotfile to extract annotations.
+Zotfile can extract annotations and highlighted text from many PDF files. But it will never be able to handle all files. If you can not copy & paste meaningful text from the file in your pdf viewer (open your pdf viewer (not the browser plugin), select text, copy and paste it somewhere), zotfile won't be able to extract the highlighted text either. If you can, there is a chance that future versions of zotfile will solve the problem. In general, these files depend on the pdf standards supported by pdf.js, which is the pdf library used by zotfile to extract annotations.
 
 ## License
 The source code is released under GNU General Public License, version 3.0
